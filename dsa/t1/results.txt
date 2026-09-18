@@ -1,0 +1,79 @@
+Algoritmo 1 (ineficiente)
+Teste 1:
+g
+207760
+0m0,126s
+
+Teste 2:
+g
+100897558
+0m37,768s
+
+Teste 3:
+4m5,325s
+
+Teste 4:
+1m10,727s
+
+Teste 5:
+7m2,764s
+
+Teste 6:
+3m37,596s
+
+Teste 7:
+Killed
+
+
+
+Algoritmo 2 (Eficiente)
+Teste 1:
+g
+207760
+0,004s
+
+Teste 2:
+g
+100897558
+0,006s
+
+Teste 3:
+g
+5973056973
+0,030s
+
+Teste 4:
+g
+25570697376
+0,006s
+
+Teste 5:
+g
+732053647169
+0,031s
+
+Teste 6:
+g
+3212546228360
+0,010s
+
+Teste 7:
+g
+17970337196998
+0,032s
+
+Teste 8:
+g
+129580201445915
+0,031s
+
+Teste 9:
+g
+653129623073193
+0,008s
+
+Teste 10:
+g
+7204742496512011
+0,006s
+
